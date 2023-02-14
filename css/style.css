@@ -461,4 +461,16 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	float: left;
 	margin-bottom: 20px;
 }
+
+}
+
+@media (max-width: 512px) {
+	ol.type {
+		padding: 10px;
+		background-color: #414a52;
+	}
+	ol.type li {
+		display: block;
+		padding: 12px 24px;
+	}
 }
