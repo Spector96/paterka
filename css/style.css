@@ -61,7 +61,7 @@ ul, ol {
 }
 hr {
 	height: 2px;
-	width: 90px;
+	width: 60%;
 	text-align: center;
 	position: relative;
 	background: rgba(0,0,0,0.2);
@@ -181,7 +181,7 @@ hr {
     opacity: 0.8;
 }
 .section-title.center {
-	padding: 10px 0 40px 0;
+	padding: 10px 0 10px 0;
 }
 .intro h1 {
 	color: rgba(255,255,255,0.9);
@@ -415,7 +415,7 @@ color: #2c3e50;
 color: #2c3e50;
 }
 #contact .social {
-	margin-top: 80px;
+	margin-top: 0px;
 }
 #contact .social ul li {
 	display: inline-block;
