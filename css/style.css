@@ -234,6 +234,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 #portfolio h2 {
 	color: #54d0dd;
 }
+
+img.portfolio-item {
+	object-fit: cover;
+}
+
 .categories {
 	padding-bottom: 30px;
 	text-align: center;
