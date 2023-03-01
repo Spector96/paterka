@@ -46,7 +46,7 @@ function main() {
     $(window).load(function() {
         var $container = $('.portfolio-items');
         $container.isotope({
-            filter: '*',
+            filter: '.lakasok-hazak',
             animationOptions: {
                 duration: 750,
                 easing: 'linear',
