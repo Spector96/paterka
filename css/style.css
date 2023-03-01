@@ -480,7 +480,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	}
 }
 
-@media (max-width: 1256px) {
+@media (max-width: 1256px) and (min-width: 512px) {
 	ol.type {
 		background-color: #414a52;
 	}
