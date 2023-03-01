@@ -479,3 +479,14 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 		padding: 12px 24px;
 	}
 }
+
+@media (max-width: 1256px) {
+	ol.type {
+		background-color: #414a52;
+	}
+	ol.type li {
+		display: inline-block;
+		padding: 12px 0 12px 0;
+		margin: 18px;
+	}
+}
